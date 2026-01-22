@@ -2,7 +2,7 @@ Last login: Wed Jan 21 19:33:02 on ttys000
 (base) jojoswife@eduroam-169-233-195-170 ~ % python
 Python 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> print("Full Name: Yuqi")
+>>> print("Full Name: Yuqi Fan")
 ... print("Preferred Pronouns: She/Her")
 ... 
 ... print("My favorite movie is Flipped because it tells a heartfelt story abou\
@@ -12,7 +12,7 @@ a perfect snack anytime.")
 ... 
 ... 
 ... 
-Full Name: Yuqi
+Full Name: Yuqi Fan
 Preferred Pronouns: She/Her
 My favorite movie is Flipped because it tells a heartfelt story about growing up and seeing the world differently.
 My favorite food is chips because they are crunchy, salty, and make a perfect snack anytime.
