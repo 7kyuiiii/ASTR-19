@@ -1,0 +1,29 @@
+Last login: Mon Jan 26 15:34:43 on ttys000
+(base) jojoswife@MacBook-Air ~ % python
+Python 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>> num1 = 4.5
+>>> num2 = 1.5
+>>> sum_result = num1 + num2
+>>> print("Sum:", sum_result)
+Sum: 6.0
+>>> print("Data type:", type(sum_result))
+Data type: <class 'float'>
+>>> 
+>>> int1= 14
+>>> int2 = 6
+>>> difference_result = int1 - int2
+>>> print("Difference:", difference_result)
+Difference: 8
+>>> print("Data type:", type(difference_result))
+Data type: <class 'int'>
+>>> 
+>>> float_num = 3.0
+>>> int_num = 8
+>>> product_result = float_num * int_num
+>>> print("Product:", product_result)
+Product: 24.0
+>>> print("Data type:", type(product_result))
+Data type: <class 'float'>
+>>> 
