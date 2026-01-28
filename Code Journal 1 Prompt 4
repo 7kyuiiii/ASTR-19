@@ -1,0 +1,46 @@
+Last login: Mon Jan 26 15:48:07 on ttys000
+(base) jojoswife@MacBook-Air ~ % python 
+Python 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> class Dog:
+...     def __init__(self, arm_length, leg_length, num_eyes, has_tail, is_furry\
+):
+...         # Data members
+...         self.arm_length = arm_length      # float
+...         self.leg_length = leg_length      # float
+...         self.num_eyes = num_eyes          # int
+...         self.has_tail = has_tail          # bool
+...         self.is_furry = is_furry          # bool
+... 
+...     def describe_animal(self):
+...         print("Favorite Animal: Dog")
+...         print("Arm length:", self.arm_length)
+...         print("Leg length:", self.leg_length)
+...         print("Number of eyes:", self.num_eyes)
+...         print("Has a tail:", self.has_tail)
+...         print("Is furry:", self.is_furry)
+... 
+... 
+... def main():
+...     # Create an instance of the Dog class
+...     dog = Dog(
+...         arm_length=0.4,
+...         leg_length=0.6,
+...         num_eyes=2,
+...         has_tail=True,
+...         is_furry=True
+...     )
+... 
+...     # Print the dog's physical characteristics
+...     dog.describe_animal()
+... 
+... 
+... main()
+... 
+Favorite Animal: Dog
+Arm length: 0.4
+Leg length: 0.6
+Number of eyes: 2
+Has a tail: True
+Is furry: True
+>>> 
