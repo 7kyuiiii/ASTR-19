@@ -1,0 +1,23 @@
+Last login: Mon Jan 26 15:36:51 on ttys000
+(base) jojoswife@MacBook-Air ~ % python
+Python 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> def f(x):
+...     return x**3 + 8
+... 
+... def main():
+...     result = f(9)
+...     print("Result:", result)
+... 
+...     if result > 27:
+...         print("YAY!")
+... 
+... main()
+... 
+Result: 737
+YAY!
+>>> 
+
+
+
+
